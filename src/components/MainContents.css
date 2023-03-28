@@ -1,0 +1,11 @@
+.wrapper {
+  height: 70vh;
+  width: 100%;
+  background: aqua;
+}
+.todo-list {
+  padding-top: 50px;
+}
+button {
+  margin: 20px;
+}
